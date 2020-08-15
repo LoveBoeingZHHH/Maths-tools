@@ -1,4 +1,5 @@
 import os
+
 print("[Choose language] Chinese enter 1,English enter 2")
 b = int(input())
 def Chinese():
