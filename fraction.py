@@ -43,7 +43,6 @@ class Rational(object):#以1/3,3/5为例，输出加法
         numeratorSub = (thelcm/self.deom*self.numer)-(thelcm/f.deom*f.numer)
         return Rational(numeratorSub,thelcm)
 
-onehalf = Rational(1,3)
-threefive = Rational(3,5)
-thesum = onehalf + threefive
-print(thesum)
+
+
+
